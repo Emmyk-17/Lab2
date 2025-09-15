@@ -9,7 +9,7 @@ public class Main {
 
         System.out.format("This is x and its value is %d\n", x);
 
-        y = x + gen.nextInt(4);
+        y = x + gen.nextInt(4) + 11;
         x += 3;
         System.out.println("Hello world!");
         System.out.println("this is y its value is " + y);
