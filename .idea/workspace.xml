@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a510e71-47ac-4702-ad66-19ced9d1dbb2" name="Changes" comment="added y">
+    <list default="true" id="0a510e71-47ac-4702-ad66-19ced9d1dbb2" name="Changes" comment="changed y">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -40,7 +45,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "new-master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -85,13 +90,41 @@
       <option name="project" value="LOCAL" />
       <updated>1757953473810</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added y">
+      <option name="closed" value="true" />
+      <created>1757953777083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757953777083</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed y">
+      <option name="closed" value="true" />
+      <created>1757954408524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757954408524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="new lines of code" />
     <MESSAGE value="added y" />
-    <option name="LAST_COMMIT_MESSAGE" value="added y" />
+    <MESSAGE value="changed y" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed y" />
   </component>
 </project>
